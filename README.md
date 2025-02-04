@@ -27,6 +27,7 @@ The application provides a user-friendly interface for performing object detecti
 The app is designed to be modular, allowing easy integration of additional models or datasets in the future.
 
 ---
+![object detection app](https://github.com/user-attachments/assets/ef0ede42-7261-4f03-9c71-64ed227047e9)
 
 ### Features
 - **Model Selection**: Choose between YOLOv11 and Faster R-CNN models.
